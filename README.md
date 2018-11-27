@@ -1,4 +1,4 @@
-# k3nwood.github.io
-Website (Vlad Maevsky)
 
-https://k3nwood.github.io
+This is just a simple landing.
+
+https://vladmaevsky.github.io
